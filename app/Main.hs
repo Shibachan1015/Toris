@@ -2,9 +2,9 @@ module Main (main) where
 
 -- import Lib
 
--- n ミリメートルの丈の長さの生地を長さｘで裁断します。
--- 長さｘミリメートルで採れた生地の数量を出す関数を定義します。あまりの長さもミリメートルで出したいです。
--- そして、長さxミリメートルの生地の横幅ｙを先程と同じように、長さzミリメートルで裁断し、採れる数量とあまり生地をミリメートルで出します。
+-- n ミリメートルの丈の長さの生地を長さｘで裁断する。
+-- 長さｘミリメートルで採れた生地の数量を出す関数を定義する。あまりの長さもミリメートルで出す。
+-- そして、長さxミリメートルの生地の横幅ｙを先程と同じように、長さzミリメートルで裁断し、採れる数量とあまり生地をミリメートルで出す。
 -- Cut a length x of fabric of length n millimeters.
 -- Define a function that produces the quantity of fabric taken at length x millimeters. We also want to get the not much length in millimeters.
 -- Then, cut the width y of the fabric of length x millimeters in the same way as before, with length z millimeters, and get the quantity of the fabric taken and the quantity of the fabric left over in millimeters.
